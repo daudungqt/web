@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /***************************************
 	Theme Name: Sahifa
 	Theme URI: http://themes.tielabs.com/sahifa/
@@ -49,7 +49,7 @@ body {
 pre,
 code {
     direction: ltr;
-    background: url(../img/code-bg.png);
+    background: url(http://s.huypv.net/bietthu.xyz/img/code-bg.png);
     font: 11px/19px'andale mono', 'lucida console', monospace;
     padding: 3px;
     display: block;
@@ -362,11 +362,11 @@ a.bp-title-button:hover {
 
 @font-face {
     font-family: 'BebasNeueRegular';
-    src: url('../fonts/BebasNeue-webfont.eot');
-    src: url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/BebasNeue-webfont.woff') format('woff'),
-         url('../fonts/BebasNeue-webfont.ttf') format('truetype'),
-         url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    src: url('http://s.huypv.net/bietthu.xyz/fonts/BebasNeue-webfont.eot');
+    src: url('http://s.huypv.net/bietthu.xyz/fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://s.huypv.net/bietthu.xyz/fonts/BebasNeue-webfont.woff') format('woff'),
+         url('http://s.huypv.net/bietthu.xyz/fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('http://s.huypv.net/bietthu.xyz/fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -389,12 +389,12 @@ a.bp-title-button:hover {
 /* Font Awesome */
 @font-face {
   font-family: 'FontAwesome';
-  src:  url('../fonts/fontawesome-webfont.eot?v=4.4.0');
-  src:  url('../fonts/fontawesome-webfont.eot?#iefix&v=4.4.0') format('embedded-opentype'),
-        url('../fonts/fontawesome-webfont.woff2?v=4.4.0') format('woff2'),
-        url('../fonts/fontawesome-webfont.woff?v=4.4.0') format('woff'),
-        url('../fonts/fontawesome-webfont.ttf?v=4.4.0') format('truetype'),
-        url('../fonts/fontawesome-webfont.svg?v=4.4.0#fontawesomeregular') format('svg');
+  src:  url('http://s.huypv.net/bietthu.xyz/fonts/fontawesome-webfont.eot?v=4.4.0');
+  src:  url('http://s.huypv.net/bietthu.xyz/fonts/fontawesome-webfont.eot?#iefix&v=4.4.0') format('embedded-opentype'),
+        url('http://s.huypv.net/bietthu.xyz/fonts/fontawesome-webfont.woff2?v=4.4.0') format('woff2'),
+        url('http://s.huypv.net/bietthu.xyz/fonts/fontawesome-webfont.woff?v=4.4.0') format('woff'),
+        url('http://s.huypv.net/bietthu.xyz/fonts/fontawesome-webfont.ttf?v=4.4.0') format('truetype'),
+        url('http://s.huypv.net/bietthu.xyz/fonts/fontawesome-webfont.svg?v=4.4.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -421,11 +421,11 @@ blockquote:before,
 
 @font-face {
   font-family: 'tiefontello';
-  src: url('fonts/tiefont/fontello.eot?14434071');
-  src: url('fonts/tiefont/fontello.eot?14434071#iefix') format('embedded-opentype'),
-       url('fonts/tiefont/fontello.woff?14434071') format('woff'),
-       url('fonts/tiefont/fontello.ttf?14434071') format('truetype'),
-       url('fonts/tiefont/fontello.svg?14434071#fontello') format('svg');
+  src: url('http://s.huypv.net/bietthu.xyz/http://s.huypv.net/bietthu.xyz/fonts/tiefont/fontello.eot?14434071');
+  src: url('http://s.huypv.net/bietthu.xyz/fonts/tiefont/fontello.eot?14434071#iefix') format('embedded-opentype'),
+       url('http://s.huypv.net/bietthu.xyz/http://s.huypv.net/bietthu.xyz/fonts/tiefont/fontello.woff?14434071') format('woff'),
+       url('http://s.huypv.net/bietthu.xyz/fonts/tiefont/fontello.ttf?14434071') format('truetype'),
+       url('http://s.huypv.net/bietthu.xyz/fonts/tiefont/fontello.svg?14434071#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -433,7 +433,7 @@ blockquote:before,
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     @font-face {
         font-family: 'tiefontello';
-        src: url('fonts/tiefont/fontello.svg?14434071#fontello') format('svg');
+        src: url('http://s.huypv.net/bietthu.xyz/fonts/tiefont/fontello.svg?14434071#fontello') format('svg');
     }
 }
 
@@ -478,18 +478,18 @@ blockquote:before,
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 	#main-nav  ul li.menu-item-home a{
-		background-image: url(../img/home@2x.png)!important;
+		background-image: url(http://s.huypv.net/bietthu.xyz/img/home@2x.png)!important;
 		background-size: 30px 78px;
 	}
     
     span.stars-large,
     span.stars-large span {
-		background-image:url(../img/stars-large@2x.png);
+		background-image:url(http://s.huypv.net/bietthu.xyz/img/stars-large@2x.png);
 		background-size: 98px 44px;
 	}
 	span.stars-small,
     span.stars-small span {
-		background-image:url(../img/stars-small@2x.png);
+		background-image:url(http://s.huypv.net/bietthu.xyz/img/stars-small@2x.png);
 		background-size: 54px 30px;
 	}
 }
@@ -1302,7 +1302,7 @@ blockquote:before,
 /* Home Icon */
 
 #main-nav ul li.menu-item-home a {
-    background-image: url(../img/home.png)!important;
+    background-image: url(http://s.huypv.net/bietthu.xyz/img/home.png)!important;
     background-repeat: no-repeat!important;
     background-position: center -44px;
     text-indent: -9999px;
